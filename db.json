@@ -1,42 +1,4 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "username": "darkwolf21",
-      "password": "Dw@2025x",
-      "email": "darkwolf21@example.com"
-    },
-    {
-      "id": 2,
-      "username": "sunny_rider",
-      "password": "SunnY#89",
-      "email": "sunny_rider@example.com"
-    },
-    {
-      "id": 3,
-      "username": "pixel_ghost",
-      "password": "Pix3l!gh0st",
-      "email": "pixel_ghost@example.com"
-    },
-    {
-      "id": 4,
-      "username": "code_ninja",
-      "password": "N1nj@Code!",
-      "email": "code_ninja@example.com"
-    },
-    {
-      "id": 5,
-      "username": "alpha_zero",
-      "password": "AlphaZ_44",
-      "email": "alpha_zero@example.com"
-    },
-    {
-      "id": 6,
-      "username": "byte_bomber",
-      "password": "Bom8!Byte",
-      "email": "byte_bomber@example.com"
-    }
-  ],
   "courses": [
     {
       "id": 1,
