@@ -116,97 +116,97 @@
       "id": 1,
       "topicId": 1,
       "title": "Introducción a los vectores",
-      "description": "Un vector es una entidad matemática que tiene magnitud y dirección. En este objetivo aprenderás cómo representar vectores gráficamente en un plano cartesiano, cómo se diferencian de los escalares, y cómo se utilizan en diversas aplicaciones de la física y las matemáticas."
+      "description": "Qué es un vector y cómo se representa."
     },
     {
       "id": 2,
       "topicId": 1,
       "title": "Operaciones con vectores",
-      "description": "Aprenderás a realizar operaciones fundamentales como suma, resta, y multiplicación por escalar con vectores. Comprenderás cómo estas operaciones afectan gráficamente a los vectores y cómo se aplican en contextos prácticos como el análisis de fuerzas."
+      "description": "Suma, resta y multiplicación por escalar."
     },
     {
       "id": 3,
       "topicId": 2,
       "title": "Multiplicación de matrices",
-      "description": "Este objetivo te enseña cómo realizar multiplicaciones entre matrices, entendiendo la regla de filas por columnas. Además, verás ejemplos de cómo esta operación es fundamental en transformaciones lineales, gráficos computacionales y sistemas de ecuaciones."
+      "description": "Cómo multiplicar matrices y su utilidad."
     },
     {
       "id": 4,
       "topicId": 2,
       "title": "Resolución de sistemas lineales con matrices",
-      "description": "Aprenderás a aplicar métodos como el de Gauss-Jordan para resolver sistemas de ecuaciones lineales mediante matrices. Este enfoque algebraico es muy utilizado en ingeniería, programación y física aplicada."
+      "description": "Resolver sistemas lineales usando matrices."
     },
     {
       "id": 5,
       "topicId": 3,
       "title": "Tipos de datos en Python",
-      "description": "Explora los diferentes tipos de datos disponibles en Python como enteros, flotantes, cadenas de texto y booleanos. Aprenderás a identificarlos, utilizarlos correctamente y evitar errores comunes al manipular datos."
+      "description": "Principales tipos de datos en Python."
     },
     {
       "id": 6,
       "topicId": 3,
       "title": "Buenas prácticas al declarar variables",
-      "description": "Aprenderás cómo declarar variables de manera clara, legible y segura. Verás ejemplos de nombres significativos, convenciones como snake_case, y cómo mantener tu código limpio y profesional desde el inicio."
+      "description": "Cómo nombrar y declarar variables correctamente."
     },
     {
       "id": 7,
       "topicId": 4,
       "title": "Condicionales en Python",
-      "description": "Conocerás cómo usar estructuras condicionales como `if`, `elif` y `else` para ejecutar diferentes bloques de código según se cumplan ciertas condiciones. Esta habilidad es esencial para la lógica de cualquier programa."
+      "description": "Uso de if, elif y else."
     },
     {
       "id": 8,
       "topicId": 4,
       "title": "Bucles y automatización",
-      "description": "Aprenderás a usar bucles `for` y `while` para repetir acciones de forma automática en Python. Verás cómo aplicar esta técnica en tareas como recorrer listas, procesar datos o simular procesos."
+      "description": "Uso de bucles for y while."
     },
     {
       "id": 9,
       "topicId": 5,
       "title": "Características del arte renacentista",
-      "description": "Este objetivo te guía por las principales características del arte renacentista como la perspectiva, el realismo y la inspiración clásica. Analizarás obras clave de artistas como Leonardo da Vinci y Miguel Ángel."
+      "description": "Principales rasgos del arte renacentista."
     },
     {
       "id": 10,
       "topicId": 6,
       "title": "Fundamentos de UX",
-      "description": "Comprenderás los principios fundamentales de la experiencia de usuario (UX), como usabilidad, accesibilidad, y diseño centrado en el usuario. Estos principios son clave para diseñar productos digitales eficientes y agradables."
+      "description": "Principios básicos de experiencia de usuario."
     },
     {
       "id": 11,
       "topicId": 6,
       "title": "Buenas y malas prácticas en UI",
-      "description": "Aprenderás a identificar interfaces efectivas frente a aquellas que frustran al usuario. Analizarás ejemplos reales y descubrirás cómo pequeños detalles pueden mejorar o arruinar la experiencia del usuario."
+      "description": "Ejemplos de buenas y malas interfaces."
     },
     {
       "id": 12,
       "topicId": 7,
       "title": "Creación de wireframes",
-      "description": "Descubrirás cómo crear wireframes, es decir, esquemas visuales que representan la estructura básica de una página o app. Esta técnica te ayudará a planificar el diseño antes de programar."
+      "description": "Cómo crear wireframes para apps o webs."
     },
     {
       "id": 13,
       "topicId": 8,
       "title": "SEO vs SEM",
-      "description": "Este objetivo explica las diferencias entre el posicionamiento orgánico (SEO) y el de pago (SEM). Comprenderás cuándo conviene usar cada estrategia y cómo influyen en la visibilidad en buscadores."
+      "description": "Diferencias entre SEO y SEM."
     },
     {
       "id": 14,
       "topicId": 8,
       "title": "Estrategias básicas de posicionamiento",
-      "description": "Aprenderás estrategias prácticas como la optimización de palabras clave, el uso de etiquetas HTML adecuadas, y la creación de contenido de calidad para mejorar el posicionamiento web."
+      "description": "Técnicas básicas para mejorar el posicionamiento."
     },
     {
       "id": 15,
       "topicId": 9,
       "title": "Filosofía griega antigua",
-      "description": "Conocerás el contexto cultural, político y social de la antigua Grecia que dio origen a la filosofía occidental. Verás cómo el pensamiento racional comenzó a cuestionar el mito y a buscar explicaciones lógicas del mundo."
+      "description": "Contexto y origen de la filosofía griega."
     },
     {
       "id": 16,
       "topicId": 9,
       "title": "Sócrates y su legado filosófico",
-      "description": "Estudiarás la figura de Sócrates, su método de enseñanza basado en preguntas, y sus aportes al pensamiento crítico. Verás por qué es considerado uno de los fundadores de la filosofía occidental."
+      "description": "Quién fue Sócrates y su importancia."
     }
   ],
   "resources": [
@@ -225,19 +225,19 @@
     {
       "id": 3,
       "topicId": 2,
-      "link": "https://www.youtube.com/watch?v=IrTeyyzerjI",
+      "link": "IrTeyyzerjI",
       "description": "Artículo sobre transformaciones con matrices."
     },
     {
       "id": 4,
       "topicId": 3,
-      "link": "https://www.youtube.com/watch?v=IrTeyyzerjI",
+      "link": "IrTeyyzerjI",
       "description": "Tutorial sobre variables y tipos de datos en Python."
     },
     {
       "id": 5,
       "topicId": 3,
-      "link": "https://www.youtube.com/watch?v=IrTeyyzerjI",
+      "link": "IrTeyyzerjI",
       "description": "Infografía sobre tipos de datos en programación."
     },
     {
@@ -249,49 +249,49 @@
     {
       "id": 7,
       "topicId": 5,
-      "link": "https://www.youtube.com/watch?v=IrTeyyzerjI",
+      "link": "IrTeyyzerjI",
       "description": "Resumen de los principales movimientos artísticos del Renacimiento."
     },
     {
       "id": 8,
       "topicId": 6,
-      "link": "https://example.com/ux-principles",
+      "link": "IrTeyyzerjI",
       "description": "Artículo sobre los principios del diseño UX."
     },
     {
       "id": 9,
       "topicId": 6,
-      "link": "https://example.com/ux-checklist",
+      "link": "IrTeyyzerjI",
       "description": "Lista de verificación para evaluar la experiencia de usuario."
     },
     {
       "id": 10,
       "topicId": 7,
-      "link": "https://example.com/wireframe-tools",
+      "link": "IrTeyyzerjI",
       "description": "Herramientas recomendadas para crear wireframes."
     },
     {
       "id": 11,
       "topicId": 8,
-      "link": "https://example.com/seo-vs-sem",
+      "link": "IrTeyyzerjm",
       "description": "Diferencias entre SEO y SEM."
     },
     {
       "id": 12,
       "topicId": 8,
-      "link": "https://example.com/seo-strategies",
+      "link": "IrTeyyzerjI",
       "description": "Estrategias básicas de SEO para principiantes."
     },
     {
       "id": 13,
       "topicId": 9,
-      "link": "https://example.com/socrates-bio",
+      "link": "IrTeyyzerjI",
       "description": "Biografía de Sócrates y su impacto en la filosofía."
     },
     {
       "id": 14,
       "topicId": 9,
-      "link": "https://example.com/greek-philosophy",
+      "link": "IrTeyyzerjI",
       "description": "Introducción a la filosofía griega antigua."
     }
   ]
